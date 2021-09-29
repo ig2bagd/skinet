@@ -1,4 +1,3 @@
-
 import { Component, Input, OnInit } from '@angular/core';
 import { IProduct } from 'src/app/shared/models/product';
 
